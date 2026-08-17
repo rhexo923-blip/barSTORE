@@ -1,0 +1,1 @@
+exe dosyasını arkadaşlar yönetici oalrak çalıştırın açık kaynaklıdır zaten nedeni ise:winget den uygulamalra indirme şeyi gönderiyo onun için istiyo korkmayın :)
